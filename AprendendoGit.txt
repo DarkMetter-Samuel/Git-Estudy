@@ -10,3 +10,20 @@ Git Introduction
 2- Commit a File
 3- Open a pull request
 4- Merge your pull request
+
+Css Peek
+Git History
+Github actions 
+GitLens
+Image Preview
+Live server
+Material Icon theme
+Php intelephense
+SQLite 
+TailWind Css
+Thunder CLient
+VsCode-Faker
+VSCode-Pets
+
+
+
