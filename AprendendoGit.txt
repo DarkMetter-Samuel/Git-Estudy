@@ -1,0 +1,12 @@
+Utilização do GitHub
+
+// Git Clone (link_Repositorio) -> serve para você clonar o repositorio de alguém ou clonar o seu proprio repositorio.
+
+---
+
+Git Introduction
+
+1- Create a Branch
+2- Commit a File
+3- Open a pull request
+4- Merge your pull request
